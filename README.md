@@ -1,8 +1,8 @@
-👋 Hi, I’m @NiranjanaNaveen
-- 👀 I’m interested in engineering and sciences.
-- 🌱 I’m currently learning engineering.
-- 📫 How to reach me: niranjnav03@gmail.com
-- 😄 Pronouns: She/her
+👋 Hi, I’m @NiranjanaNaveen (She/her)
+- 👀 I’m an engineer interested in utilising technollogy as a tool to plan and build a more sustainable future.
+- 🌱 I will be sharing here all the interesting projects I worked on as resource and log.
+- 📫 Connect with me through email or linkedin. Feel free to reach out :))
+
 
 
 <!---
