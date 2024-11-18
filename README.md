@@ -1,6 +1,6 @@
 👋 Hi, I’m @NiranjanaNaveen (She/her)
 - 👀 I’m an engineer trying to use technology as a tool to plan and build a more sustainable future.
-- 🌱 I will be sharing here all the interesting projects I worked on as resource and log.
+- 🌱 I will be logging all the interesting projects I worked on here.
 - 📫 Connect with me through email or linkedin. Feel free to reach out :))
 
 
